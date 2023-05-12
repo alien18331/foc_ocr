@@ -1,0 +1,2 @@
+git remote set-url origin https://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@github.com/alien18331/foc_ocr.git
+
